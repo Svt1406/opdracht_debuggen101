@@ -8,8 +8,8 @@ const array = [
   ];
   
   for (let person of array) {
-    // console.log('Dit is de gehele persoon:'[person]);
-    // console.log('Mijn naam is:' ,person.name);
+    // console.log('Dit is de gehele persoon:' person);
+    // console.log('Mijn naam is:', person.name);
     // console.log('Ik ben geboren in jaar:', 2021 - person.age);
     // console.log(person.name, 'is een', person.profession); 
 
